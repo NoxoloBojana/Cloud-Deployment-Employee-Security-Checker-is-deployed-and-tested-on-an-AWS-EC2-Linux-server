@@ -137,6 +137,14 @@ The original application source code is available in my Employee Security Checke
 
 https://github.com/NoxoloBojana/employee-security-checker
 
+## Proof of Work
+
+The following Google Drive folder contains screenshots showing my AWS EC2 deployment process, including the EC2 instance, SSH connection, installed tools, project cloning, successful tests, and the application running on the AWS server.
+
+**Proof of Work:**
+[Google Drive – AWS EC2 Proof of Work](PASTE-YOUR-GOOGLE-DRIVE-LINK-HERE)
+
+
 ## Verification
 
 WTC-9UJBX2LR
